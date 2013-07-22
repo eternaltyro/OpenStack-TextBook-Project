@@ -40,7 +40,7 @@
   5.2 Architecture & features
   5.3 workflow   
 
-6. Other incubating projects
+6. Other associated projects
    6.1 Ceilometer
    6.2 Savannah
    6.3 Billingstack
